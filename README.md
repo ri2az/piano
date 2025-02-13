@@ -14,8 +14,8 @@ Assurez-vous d'avoir Python installé sur votre machine (version 3.x recommandé
 
 ### 1️⃣ Cloner le dépôt
 ```bash
-git clone https://github.com/votre-utilisateur/piano-virtuel.git
-cd piano-virtuel
+git clone https://github.com/ri2az/piano.git
+cd piano
 ```
 
 ### 2️⃣ Installer les dépendances
